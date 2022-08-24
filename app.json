@@ -1,5 +1,5 @@
 {
-    "name": "Shell-Bot",
+    "name": "OttLeyon-Bot",
     "description": "Telegram bot for executing shell commands",
     "keywords": [
       "telegram",
@@ -18,18 +18,6 @@
       "OWNER_ID": {
         "description": "Your telegram ID (not username)",
         "value": "1496802577"
-      },
-      "RCLONE_CONFIG_BASE64": {
-        "description": "Your Rclone config encoded using Base64",
-        "required": false
-      },
-      "CREDENTIALS_LINK": {
-        "description": "enter permanent download link(maybe from index) of your credentials.json",
-        "required": false
-      },
-      "ACCOUNTS_FOLDER_LINK": {
-        "description": "enter permanent download link(maybe from index) of your accounts.zip",
-        "required": false
       },
       "LANG": {
         "description": "Setting the encoding to UTF-8 Dont touch this",
